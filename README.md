@@ -1,2 +1,0 @@
-# HalalEats
-testing purposes
